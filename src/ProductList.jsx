@@ -291,6 +291,7 @@ function ProductList() {
     fontSize: "30px",
     textDecoration: "none",
     position: "relative",
+    alignItems: "center",
   };
 
   const handleCartClick = (e) => {
