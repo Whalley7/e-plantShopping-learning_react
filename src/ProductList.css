@@ -24,19 +24,12 @@ body {
   font-size: 20px;
   margin-bottom: 50px; /* added for space below navbar*/
 }
-
-.navbar .ul {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
 /* Navbar */
 .navbar .ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%; /* Changed from 100vw to 100% */
+  width: 100%; 
 }
 
 .navbar li {
